@@ -1,2 +1,2 @@
 # Data-Science-Smartphone-Usage-Profiling
-With a partner, analyzed smartphone usage patterns from detailed CSV data. Merged, cleaned data in Python, performed exploratory analysis, and prepared for machine learning. Explored decision-making techniques' applicability. Tech: Python, Pandas, Scikit-learn.
+Analyzed smartphone usage patterns using detailed statistics from three CSV files with a partner. Merged datasets, cleaned data in Python, and performed exploratory analysis. Prepared data for machine learning, trained models, and analyzed performance metrics. Explored decision-making techniques' applicability for enhanced profiling. Technologies: Python, Pandas, Scikit-learn.
